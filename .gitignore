@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 target/
 pom.xml.tag
 pom.xml.releaseBackup
@@ -20,3 +21,6 @@ buildNumber.properties
 # Server
 
 Server/
+=======
+/build/
+>>>>>>> Stashed changes
